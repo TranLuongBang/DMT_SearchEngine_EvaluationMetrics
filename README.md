@@ -1,4 +1,6 @@
-# DMT 
+# Data Mining Technology for Business and Society
+
+Link: https://docs.google.com/document/d/1rthdGnpORPiWHW-VHsThsQ0KJADkWUb-b4E4S6W_Zws/edit#
 
 ### Part 1.1 Search Engine Evaluation Metrics
 Using Whoosh API to create 12 Search Engines by using different combinations of **Text-Analyzer** and **Scoring-Function**
@@ -29,6 +31,10 @@ According to nDCG@k plot, which is the best search engine configuration?
 
 ### Part 2.1 Near-Duplicate Detection
 Dataset contains on **250K** songs.
+Detect number of pairs of near-duplicate song lyrics and titles
+Method: Near-Duplicate Detection
+
+More information on **'Report.pdf'** file
 
 
 
